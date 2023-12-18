@@ -1,0 +1,6 @@
+{
+  "name": "convert-csv-to-json",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
